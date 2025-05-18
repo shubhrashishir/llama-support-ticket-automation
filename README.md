@@ -88,6 +88,7 @@ This project showcases the automation of customer support ticket classification 
 ## Author
 
 - **Name**: Shishir Shrivastava
+- (Done as part UT Austin AI/ML post grad program
 - **LinkedIn**: https\://www\.linkedin.com/in/shishir-s-9763971/
 
 
